@@ -32,12 +32,10 @@ To explore and adapt this project for your needs, follow these steps:
 
 This project has been a collaborative effort, benefiting from the contributions and insights of various individuals. Special thanks to:
 
-- Farid Adwani ([@Farid](https://github.com/Farid-Adwani)
+- Farid Adwani ([@Farid](https://github.com/Farid-Adwani))
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE). Feel free to explore, modify, and adapt the code to suit your needs.
 
 For questions or assistance, contact me at marouene.kaaniche@insat.ucar.tn .
-
-Happy robot tinkering and competition!
